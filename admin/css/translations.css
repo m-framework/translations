@@ -1,0 +1,10 @@
+.edit-form tr td input[type="text"],
+.edit-form tr td textarea
+{
+    margin: 0;
+    padding: 4px;
+    height: 30px !important;
+}
+.content-wrap .edit-form table tr td {
+    padding: 5px;
+}

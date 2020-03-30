@@ -1,0 +1,18 @@
+{
+  "title":"Translations",
+  "name":"translations",
+  "description":"Module for translations of UI phrases via admin panel",
+  "icon":"<i class=\"fa fa-language\"></i>",
+  "version":"1.0",
+  "date":"2018-01-09",
+  "author":"mrinmiro@gmail.com",
+  "compatible_cores":["1.0"],
+  "dashboard_menu":{
+    "":"<i class=\"fa fa-language\"></i> *Basic phrases*",
+    "/overview/site":"<i class=\"fa fa-language\"></i> *Site phrases*"
+  },
+  "tags":["translations","i18n","translate","internationalization"],
+  "price":"0",
+  "requires":[],
+  "":""
+}
